@@ -4,6 +4,10 @@
   "description": "Facebook scraper for the gathering basket posts",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "bot": "cypress run",
+    "bot:watch": "cypress open"
+  },
   "dependencies": {
     "cypress": "^11.1.0"
   }
