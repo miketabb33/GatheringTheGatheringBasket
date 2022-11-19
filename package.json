@@ -1,0 +1,10 @@
+{
+  "name": "gather-the-gathering-basket",
+  "version": "1.0.0",
+  "description": "Facebook scraper for the gathering basket posts",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^11.1.0"
+  }
+}
